@@ -9,7 +9,7 @@
     "attributes": {
       "content": {
         "title": "It Worked!",
-        "tagline": "Where is the tagline?"
+        "tagline": "Where is the tagline?",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
