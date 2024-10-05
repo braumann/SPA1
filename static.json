@@ -7,7 +7,6 @@
   "data": {
     "version": "1.0.0",
     "attributes": {
-      "data.attributes.content.title": "Where is this tag line?"
       "content": {
         "title": "It Worked!",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
